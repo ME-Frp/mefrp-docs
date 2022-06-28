@@ -6,11 +6,18 @@ module.exports = {
         { text: 'ME Frp官网', link: 'https://mefrp.cn' },
         { text: 'MCServerX Network', link: 'https://www.mcserverx.com' },
       ],
-      sidebar: [
-        ['/manual/understand', '开始之前'],
-        ['/manual/system', '选择和下载启动器'],
-        ['/manual/Windows', 'Windows 系统'],
-        ['/manual/Linux', 'Linux 系统']
+      sidebar:
+      [ ['/manual/understand', '开始之前'],  //目录1
+        {
+        title: '基本操作',   // 目录2 子目录
+        path: '/manual/things1',      // 应为绝对路径且必须存在
+        children: [
+          ['/manual/system', '选择和下载启动器'],
+          ['/manual/Windows', 'Windows 系统'],
+          ['/manual/Linux', 'Linux 系统'],
+        ]
+      },
+        ['/manual/error', '错误指引']
       ]
   }
 }

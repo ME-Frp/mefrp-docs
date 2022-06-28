@@ -21,7 +21,10 @@ Frp 是一个高性能的内网穿透应用，我们可以通过 Frp 映射网�
 这个问题主要有两个原因:</br>
 1.是您没有选择节点(因为 Sakura 面板配置文件是默认获取1号节点的数据，可是你看看 ME Frp 有#1节点吗?没有
 2.浏览器Bug或者是网站因为某些原因加载过慢:只需要在访问链接后面加上 &server=节点序号 即可节点序号这四个字需要替换为创建隧道时#后面的数字
-::: 最后一点
+# 报告问题
+[QQ群](https://qm.qq.com/cgi-bin/qm/qr?k=5P6R7Ua2m-kL0ZHdqJdk8ko9_JnzWHhn&authKey=CBs1P+euvOr4aAgdBYM3fBgxtfTvWYKXB7r1TOMfM1OVybBdG0zfmYqVTw9I6ETR&noverify=0)
+</br>
+::: danger 最后一点
 向管理员报告 Bug 时请一定带上</br>
 节点名称: 例如北京阿里云</br>
 什么启动器:例如bat启动器/公版启动器</br>
