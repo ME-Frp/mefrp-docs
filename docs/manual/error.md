@@ -14,7 +14,7 @@ dial tcp 127.0.0.1:7000 配置文件未保存或配置文件写到frps.ini或者
 windows正确命令 frpc.exe -c frpc.ini</br>
 linux正确命令 ./frpc -c frpc.ini</br>
 二是dial tcp 实际ip:2333</br>
-这种情况是节点崩溃亦或是ddns未刷新，可以先等待5-10分钟，如果还是没好，请按[错误报告](http://localhost:8080/manual/understand.html#%E6%8A%A5%E5%91%8A%E9%97%AE%E9%A2%98)在qq群中向管理员报告
+这种情况是节点崩溃亦或是ddns未刷新，可以先等待5-10分钟，如果还是没好，请按[错误报告](/manual/understand.html#%E6%8A%A5%E5%91%8A%E9%97%AE%E9%A2%98)在qq群中向管理员报告
 5.Start frps success</br>
 这个问题一般是你启动成frps了
 参照正确命令修改即可
