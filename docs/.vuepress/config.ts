@@ -1,10 +1,11 @@
 module.exports = {
-    title: 'ME Frp 文档',
+    title: 'MirrorEdge Frp 镜缘映射文档',
     themeConfig: {
       nav: [
-        { text: 'ME Frp手册', link: '/' },
-        { text: 'ME Frp官网', link: 'https://mefrp.cn' },
-        { text: 'MCServerX Network', link: 'https://www.mcserverx.com' },
+        { text: 'MirrorEdge Frp手册', link: '/' },
+        { text: '莱云论坛', link: 'https://forum.laecloud.com' },
+        { text: 'MirrorEdge 镜缘映射', link: 'https://www.mefrp.com' },
+        { text: 'MirrorEdge Network', link: 'https://www.mcserverx.com' },
       ],
       sidebar:
       [ ['/manual/understand', '开始之前'],  //目录1
