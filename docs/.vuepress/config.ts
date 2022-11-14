@@ -17,6 +17,14 @@ module.exports = {
               ['/manual/tunnel', '隧道相关'],
             ]
           },
+          {
+            title: '客户端使用',
+            children: [
+              ['/manual/pascal', 'Pascal 启动器'],
+              ['/manual/python', 'Python 启动器'],
+              ['/manual/fatedier', '公版 启动器'],
+            ]
+          },
           //目录2
         ['/manual/error', '错误指引']
       ]
