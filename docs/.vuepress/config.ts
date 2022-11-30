@@ -25,9 +25,7 @@ module.exports = {
               ['/manual/donet', '.NET 启动器'],
               ['/manual/fatedier', '公版 启动器'],
             ]
-          },
-          //目录2
-        ['/manual/error', '错误指引']
+          }
       ]
   }
 }
