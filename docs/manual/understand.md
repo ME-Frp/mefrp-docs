@@ -8,7 +8,8 @@ Frp 是一个高性能的内网穿透应用，我们可以通过 Frp 映射网�
 目前的启动器：</br>
 ### Windows
 Windows Pascal 启动器[下载链接](http://cdn.114514.space/Download/Files/MirrorEdge/Mirror_Edge_Frp_Pascal_Win.7z)</br>
-Windows Python 启动器[下载链接](http://cdn.114514.space/Download/Files/MirrorEdge/Mirror_Edge_Frp_Python_Win.zip)
+Windows Python 启动器[下载链接](http://cdn.114514.space/Download/Files/MirrorEdge/Mirror_Edge_Frp_Python_Win.zip)</br>
+Windows .NET 启动器[下载链接](http://124.223.35.239/download/mefrp/)
 ### Linux
 Linux Pascal 启动器[下载链接](http://cdn.114514.space/Download/Files/MirrorEdge/Mirror_Edge_Frp_Pascal_Lin.7z)</br>
 Linux Python 启动器[下载链接](http://cdn.114514.space/Download/Files/MirrorEdge/Mirror_Edge_Frp_Python_Lin.tar.gz)
