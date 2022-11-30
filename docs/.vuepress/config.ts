@@ -22,6 +22,7 @@ module.exports = {
             children: [
               ['/manual/pascal', 'Pascal 启动器'],
               ['/manual/python', 'Python 启动器'],
+              ['/manual/donet', '.NET 启动器'],
               ['/manual/fatedier', '公版 启动器'],
             ]
           },
