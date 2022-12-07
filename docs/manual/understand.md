@@ -12,7 +12,6 @@ Windows Python 启动器[下载链接](http://cdn.114514.space/Download/Files/Mi
 Windows .NET 启动器[下载链接](http://124.223.35.239/download/mefrp/)
 ### Linux
 Linux Pascal 启动器[下载链接](http://cdn.114514.space/Download/Files/MirrorEdge/Mirror_Edge_Frp_Pascal_Lin.7z)</br>
-Linux Python 启动器[下载链接](http://cdn.114514.space/Download/Files/MirrorEdge/Mirror_Edge_Frp_Python_Lin.tar.gz)
 ## 注意保护这些信息
 ### 1.用户密钥/Token
 亦您在 [https://api.laecloud.com](https://api.laecloud.com) 获取到的用户密钥
