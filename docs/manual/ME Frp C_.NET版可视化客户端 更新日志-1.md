@@ -5,13 +5,16 @@
 <span style="color: #58ff7d;">新增</span>1.网页预览功能改为自己配置token。<img src="../_resources/e9dac8c859424f9cb0e7c427cbeb2ac0-1.png" alt="e9dac8c859424f9cb0e7c427cbeb2ac0.png" width="787" height="443">2022/12/13 16:06
 
 <span style="color: #58ff7d;">新增</span>1.登录改为异步登陆。（那个登陆中的提示框太丑，下个版本会改）
+
 <span style="color: #58ff7d;">新增</span>2.重新布局设置UI，参照了某游戏的设置界面（恼）
+
 <span style="color: #58ff7d;">新增</span>3.新增新手教程功能，并且把更新日志的Url进行了跟换，更新日志的窗口增加了自适应
 
 ### 2022/12/13 13:02
 
 NET客户端更新日志：
 <span style="color: #58ff7d;">新增</span>1.网页预览功能改为自己配置token。
+
 <span style="color: #35c8ff;">优化</span>2.优化ui布局
 [](#)
 
@@ -19,6 +22,7 @@ NET客户端更新日志：
 
 NET客户端更新日志：
 <span style="color: #58ff7d;">新增</span>1.网页预览功能改为自己配置token。
+
 <span style="color: #35c8ff;">优化</span>2.优化ui布局
 [](#)
 
@@ -26,12 +30,14 @@ NET客户端更新日志：
 
 NET客户端更新日志：
 <span style="color: #58ff7d;">新增</span>1.将黑框嵌在了启动器里。
+
 <span style="color: #58ff7d;">新增</span>2.开启http,https时将生成网站预览图。
 ![0c230b7e70d86fe6082c5b7b7ea1c011.png](../_resources/0c230b7e70d86fe6082c5b7b7ea1c011-1.png)
 
 ### 2022/12/11 17:04
 
 NET客户端更新日志：
+
 <span style="color: #58ff7d;">新增</span>1.支持查看正在维护中的隧道。
 
 ## **这六天的不想补了！！！**跳过！
@@ -39,19 +45,23 @@ NET客户端更新日志：
 ### 2022/12/5 12:02
 
 <span style="color: #58ff7d;">新增</span>1.新增暂停所有隧道。
+
 <span style="color: #58ff7d;">新增</span>2.图标支持记录cpu占用的信息。
-优<span style="color: #35c8ff;">优化</span>3.开机自启设置的数据格式已经改为.ini
+
+<span style="color: #35c8ff;">优化</span>3.开机自启设置的数据格式已经改为.ini
 [](#)
 
 ### 2022/12/4 23:02
 
 <span style="color: #58ff7d;">新增</span>1.新增一种ping的样式（现在又图表和指针两种）
+
 <span style="color: #58ff7d;">新增</span>2.现在实时ping支持更改ping的间隔（已毫秒为单位）
 [](#)
 
 ### 2022/12/4 12:02
 
 <span style="color: #58ff7d;">新增</span>1.统一提示框ui为Material类型。
+
 <span style="color: #35c8ff;">优化</span>2.登录支持检测错误的token，并提示然后要求重新登录
 [](#)
 
@@ -69,27 +79,36 @@ NET客户端更新日志：
 ### 2022/12/2 14:02
 
 <span style="color: #58ff7d;">新增</span>1.ping支持ping TCP UDP。
+
 <span style="color: #35c8ff;">优化</span>2.支持清理Webview缓存。
+
 <span style="color: #35c8ff;">优化</span>3.每次更新将不会清除token信息。
 [](#)
 
 ### 2022/12/1 16:02
 
 <span style="color: #58ff7d;">新增</span>1.全部隧道ping。
+
 <span style="color: #35c8ff;">优化</span>2.修复一个致命bug。
+
 <span style="color: #35c8ff;">优化</span>3.优化UI排列。
 
 ### 2022/11/30 16:02
 
 <span style="color: #58ff7d;">新增</span>1.新增实时ping然后生成图表功能。
+
 <span style="color: #35c8ff;">优化</span>2.优化部分语句/逻辑，使得新手更容易上手。
+
 <span style="color: #35c8ff;">优化</span>3.优化“更新日志”功能。
 
 ### 2022/11/29 19:02
 
 <span style="color: #58ff7d;">新增</span>1.新增“内部浏览器”支持使用外部浏览器访问网页。
+
 <span style="color: #58ff7d;">新增</span>2.“关于界面”新增软件开发者，ME Frp，GitHub开源地址的详情。
+
 <span style="color: #58ff7d;">新增</span>3.新增“宝塔面板”一键安装功能。
+
 <span style="color: #35c8ff;">优化</span>4.优化一些提示语。
 [](#)
 
@@ -101,21 +120,31 @@ NET客户端更新日志：
 ### 2022/11/29 13:07
 
 <span style="color: #58ff7d;">新增</span>1.应用内置了个浏览器。
+
 <span style="color: #58ff7d;">新增</span>2.新增使用用户名和密码来登录（注意：此功能没有edge浏览器将无法使用）。
+
 <span style="color: #35c8ff;">优化</span>3.完善“关于界面”。
+
 <span style="color: #35c8ff;">优化</span>4.更换软件icon。
 [](#)
 
 ### 2022/11/28 12：20
 
 <span style="color: #58ff7d;">新增</span>1.将UI配色更换成蓝粉小清新配色。
+
 <span style="color: #58ff7d;">新增</span>2.将上导航栏改为侧边栏。
+
 同时BDS版更新了：
 <span style="color: #58ff7d;">新增</span>1.支持一键配置ll加载器。（可能会有bug）
+
 <span style="color: #58ff7d;">新增</span>2.将UI配色更换成蓝粉小清新配色。
+
 <span style="color: #35c8ff;">优化</span>3.将上导航栏改为侧边栏。
+
 提示普通版本可打开旧版客户端进行更新，或者在ME Frp官网下载全新的最新版。
+
 提示BDS版本请在这里下载zip安装包：https://www.123pan.com/s/c3p9-vqpwA
+
 测试版的更新日志2022/11/24 12：00
 1.修复若干致命bug
 2.优化了ui布局，使它更像个正常软件（bushi）
