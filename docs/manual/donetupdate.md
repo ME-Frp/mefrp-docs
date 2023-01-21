@@ -1,7 +1,7 @@
 
 ### 2022/12/14 16:02
 
-<span style="color: #58ff7d;">新增</span>1.网页预览功能改为自己配置 token。2022/12/13 16:06
+<span style="color: #58ff7d;">新增</span>1.网页预览功能改为自己配置token。2022/12/13 16:06
 
 <span style="color: #58ff7d;">新增</span>1.登录改为异步登陆。（那个登陆中的提示框太丑，下个版本会改）
 
@@ -30,7 +30,8 @@ NET 客户端更新日志：
 NET 客户端更新日志：
 <span style="color: #58ff7d;">新增</span>1.将黑框嵌在了启动器里。
 
-<span style="color: #58ff7d;">新增</span>2.开启 http,https 时将生成网站预览图。
+<span style="color: #58ff7d;">新增</span>2.开启http,https时将生成网站预览图。
+
 
 ### 2022/12/11 17:04
 
