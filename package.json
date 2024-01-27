@@ -8,6 +8,7 @@
     "docs:build": "vuepress build docs"
   },
   "dependencies": {
-    "vuepress": "^1.9.7"
+    "vuepress": "^1.9.7",
+    "yard": "^1.0.3"
   }
 }

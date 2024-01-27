@@ -1,10 +1,9 @@
 module.exports = {
-    title: 'MirrorEdge Frp 镜缘映射文档',
+    title: 'ME Frp | 镜缘映射 文档',
     themeConfig: {
       nav: [
-        { text: 'MirrorEdge Frp手册', link: '/' },
-        { text: '莱云论坛', link: 'https://forum.laecloud.com' },
-        { text: 'MirrorEdge 镜缘映射', link: 'https://www.mefrp.com' },
+        { text: 'ME Frp | 镜缘映射 文档', link: '/' },
+        { text: 'ME Frp | 镜缘映射', link: 'https://www.mefrp.com' },
         { text: 'MirrorEdge Network', link: 'https://www.mcserverx.com' },
       ],
       sidebar:
@@ -18,15 +17,26 @@ module.exports = {
             ]
           },
           {
-            title: '客户端使用',
+            title: '客户端的使用',
             children: [
-              ['/manual/python', 'Python 启动器'],
-              ['/manual/donet', '.NET 启动器'],
               ['/manual/mefrp', 'ME Frp 官方快捷启动 启动器'],
-                // -------------------------------------------
-              ['/manual/pythonupdate', 'Python 启动器更新日志'],
-              ['/manual/donetupdate', '.NET 启动器 - 更新日志']
             ]
+          },
+          //{
+          //    title: '不同系统下的使用',
+          //    children: [
+          //        ['/manual/Windows', 'Windows 系统下的使用'],
+          //        ['/manual/Linux', 'Linux 系统下的使用'],
+          //        ['/manual/Synology', 'Synology DSM 系统下的使用'],
+          //    ]
+          //},
+          {
+              title: '附录',
+              children: [
+                  ['/manual/QA', '如何优雅的提问'],
+                  ['/manual/YiNanZaZheng', '各种疑难杂症'],
+                  ['/manual/Error', 'Frpc 不同报错的解释'],
+              ]
           }
       ]
   }
