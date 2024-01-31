@@ -3,6 +3,7 @@ module.exports = {
     themeConfig: {
       nav: [
         { text: 'ME Frp | 镜缘映射 文档', link: '/' },
+        { text: 'ME Frp | 镜缘映射 API 文档', link: 'https://apidoc.mefrp.com' },
         { text: 'ME Frp | 镜缘映射', link: 'https://www.mefrp.com' },
         { text: 'MirrorEdge Network', link: 'https://www.mcserverx.com' },
       ],

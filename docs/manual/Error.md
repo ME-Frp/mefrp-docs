@@ -5,12 +5,12 @@
 2. 启动的时候提示 403.
 3. 启动的时候提示 i/o deadline.
 4. 启动的时候提示 message EOF.
-5. 启动的时候提示"nslookup xxx.locyan.com / xxx.locyan.ga failed".
+5. 启动的时候提示"nslookup xxx.mefrp.com / xxx.mcserverx.com failed".
 6. 启动的时候提示"start error: port already used".
 7. 启动的时候提示"frp start error: router config conflict".
 8. 启动的时候提示"Get 'https://api.mefrp.com/api/v3/start?action=checktoken&apitoken=MEFrptoken%7C14&timestamp=xxxxxxx&token=xxxxxxxxxxx&user=xxxxxxxxx':dial tcp:lookup api.mefrp.com on xxx.xxx.xxx.xxx:53: dial udp xxx.xxx.xxx.xxx:53: socket: too many open files"
 
-
+## 注：4xx 开头报错一般都是用户配置问题，请自查。5xx 开头一般都是服务问题，请联系管理员
 ### 1. 启动的时候提示 404 Not Found.
 
 1. 请登录``控制台`` -> ``隧道列表``查看您当前启动的隧道是否已经添加，若已经添加了但启动的时候还是提示``404 Not Found``请联系管理员为您辅助解决。
@@ -18,7 +18,6 @@
 ### 2. 启动的时候提示 403.
 
 1. 请检查自己是否有权限使用该节点，即你有没有完成实名认证并找管理审核。
-2. 可能是数据库因为一次处理太多数据导致崩溃，多启动几次即可成功（大部分情况都是这样的）。
 
 ### 3. 启动的时候提示 i/o deadline.
 
@@ -32,7 +31,7 @@
 2. 如果过了一段时间仍旧报错，请前往网站 https://www.mefrp.com 查看当前映射服务器是否在线。
 3. 也有可能是你自身网络或者机房网络波动导致的掉线，这种情况下过一会就会自动重连。
 
-### 5. 启动的时候提示"nslookup api.mefrp.com / xxx.mefrp.com failed".
+### 5. 启动的时候提示"nslookup api.mefrp.com / xxx.mcserverx.com failed".
 1. 更换自己的DNS服务器为 223.6.6.6 / 223.5.5.5.
 2. 也有可能是服务器找不到DNS的原因，请联系管理员处理.
 3. 更换方式自行百度.
@@ -45,4 +44,4 @@
 1. 这个报错是因为服务端有一个绑定域名一模一样的隧道已经被启动并且运行正常而返回的报错，可以更换自己的绑定域名，或者检查自己有没有在本地同时开启两个客户端.
 
 ### 8. 启动的时候提示"Get 'https://api.mefrp.com/api/v3/start?action=checktoken&apitoken=MEFrptoken%7C14&timestamp=xxxxxxx&token=xxxxxxxxxxx&user=xxxxxxxxx': dial tcp:lookup api.mefrp.com on xxx.xxx.xxx.xxx:53: dial udp xxx.xxx.xxx.xxx:53: socket: too many open files"
-1. 这个报错暂需 Aehxy 来做权威解答。
+1. 节点 Frps too many open files，导致无法启动，请在群内按照 “@管理员 [节点 too many open files] 节点：xxx节点” 的消息形式通告管理员修复。

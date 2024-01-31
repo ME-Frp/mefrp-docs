@@ -4,12 +4,12 @@
 <br>
 禁止滥用节点带宽资源。
 <br>
-禁止使用节点穿透违反中华人民共和国（包括香港特别行政区、澳门特别行政区、台湾省）法律法规及节点所在地法律法规的网站。
+禁止使用节点穿透违反中华人民共和国（包括香港特别行政区、澳门特别行政区、台湾省）各项法律法规的网站。
 <br>
 禁止使用节点穿透违规、违法、煽动民族仇恨、分裂国家主权等一系列法律命令禁止的内容。
 <br>
 <br>
-如有发现，我们将第一时间报警并将您的实名认证信息、网站登录信息、违规内容提交到网安部门处理。同时对违规用户我们有权封禁账户。
+如有发现，我们将第一时间报警并提交网安部门处理。同时对违规用户我们有权封禁账户。
 <br>
 <h2>一切解释权由``ME Frp 镜缘映射``拥有。</h2>
 :::
@@ -19,11 +19,11 @@
 
 ### 节点选择
 
-您可先在`MEFrp 控制台`首页`公告`处查看 总服务在线状态。
-![status](https://pub-85e6735d6fa64ced86e5fdeca790a982.r2.dev/MEFrp_3.png)
+您可先在`ME Frp 控制台`首页`公告`处查看 总服务在线状态。
+![status](https://mefrp.docs.pic.iuos.asia/MEFrp_3.png)
 <br>
-您可先在``MEFrp 控制台``创建隧道页面，选择您需要使用的节点（如：中国/江苏/宿迁 BGP 50Mbps 节点）查看该节点在线状态。
-![status](https://pub-85e6735d6fa64ced86e5fdeca790a982.r2.dev/MEFrp_4.png)
+您可先在``ME Frp 控制台``创建隧道页面，选择您需要使用的节点（如：中国/江苏/宿迁 BGP 50Mbps 节点）查看该节点在线状态。
+![status](https://mefrp.docs.pic.iuos.asia/MEFrp_4.png)
 从列表中选择 在线 且相对与您地理位置较近的节点
 
 ::: warning 不要盲从他人建议
@@ -37,12 +37,12 @@
 
 ### 隧道创建
 
-点击 左栏的 `隧道列表`![status](https://pub-85e6735d6fa64ced86e5fdeca790a982.r2.dev/MEFrp_5.png) 即可查看 ``所有隧道``， 随后点击左侧下方的 `创建隧道`![status](https://pub-85e6735d6fa64ced86e5fdeca790a982.r2.dev/MEFrp_6.png) 即可。
+点击 左栏的 `隧道列表`![status](https://mefrp.docs.pic.iuos.asia/MEFrp_5.png) 即可查看 ``所有隧道``， 随后点击左侧下方的 `创建隧道`![status](https://mefrp.docs.pic.iuos.asia/MEFrp_6.png) 即可。
 <br>
 隧道列表图：
-![create](https://pub-85e6735d6fa64ced86e5fdeca790a982.r2.dev/MEFrp_7.png)
+![create](https://mefrp.docs.pic.iuos.asia/MEFrp_7.png)
 创建隧道图：
-![create](https://pub-85e6735d6fa64ced86e5fdeca790a982.r2.dev/MEFrp_8.png)
+![create](https://mefrp.docs.pic.iuos.asia/MEFrp_8.png)
 选择您需要使用的节点
 选择您需要创建的隧道协议
 填写 `隧道名称` `本地地址` `本地端口` `外部端口`（`HTTP/S` 协议无需填写外部端口。）
@@ -73,11 +73,11 @@ Minecraft Java
 ::: tip
 部分创建隧道报错示例图：
 <br>
-隧道名称重复![Error](https://pub-85e6735d6fa64ced86e5fdeca790a982.r2.dev/MEFrp_9.png)
+隧道名称重复![Error](https://mefrp.docs.pic.iuos.asia/MEFrp_9.png)
 <br>
-本地IP地址不合法（本地IP地址填写有误）![Error](https://pub-85e6735d6fa64ced86e5fdeca790a982.r2.dev/MEFrp_10.png)
+本地IP地址不合法（本地IP地址填写有误）![Error](https://mefrp.docs.pic.iuos.asia/MEFrp_10.png)
 <br>
-端口已被节点占用（端口不可用）![Error](https://pub-85e6735d6fa64ced86e5fdeca790a982.r2.dev/MEFrp_11.png)
+端口已被节点占用（端口不可用）![Error](https://mefrp.docs.pic.iuos.asia/MEFrp_11.png)
 :::
 
 ::: danger 严禁
@@ -96,7 +96,7 @@ Minecraft Java
 :::
 确认信息后，点击 `创建` 即可。
 ::: danger 严禁
-如果国内节点允许``HTTP/S`` 隧道建站，域名需向管理员报备，如需创建``HTTP/S``隧道，请向管理员或节点提供者联系，进行域名白名单处理。
+如果国内节点允许``HTTP(S)`` 隧道建站，域名需向管理员报备，如需创建``HTTP(S)``隧道，请向管理员或节点提供者联系，进行域名白名单处理。
 <br>
 如果是 `腾讯云` `华为云` `阿里云`等大型服务商节点，请检查您的域名是否在相关服务商进行接入备案。
 :::
@@ -104,7 +104,7 @@ Minecraft Java
 ## 隧道管理
 
 点击 左侧 ``隧道列表``，即可进入隧道管理界面。
-![tunneles-14178](https://pub-85e6735d6fa64ced86e5fdeca790a982.r2.dev/MEFrp_7.png)
+![tunneles-14178](https://mefrp.docs.pic.iuos.asia/MEFrp_7.png)
 ::: tip 
 您可在此页``查看隧道相关信息``，您也可在此页面``删除隧道``。
 :::

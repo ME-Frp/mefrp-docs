@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: MirrorEdge Frp [ME Frp] 镜缘映射使用手册
+heroText: ME Frp 镜缘映射使用手册
 tagline: null
 actionText: 快速上手 →
 actionLink: /manual/understand.html
