@@ -23,14 +23,14 @@ module.exports = {
               ['/manual/mefrp', 'ME Frp 官方快捷启动 启动器'],
             ]
           },
-          //{
-          //    title: '不同系统下的使用',
-          //    children: [
-          //        ['/manual/Windows', 'Windows 系统下的使用'],
-          //        ['/manual/Linux', 'Linux 系统下的使用'],
-          //        ['/manual/Synology', 'Synology DSM 系统下的使用'],
-          //    ]
-          //},
+          {
+              title: '不同系统下的使用',
+             children: [
+                 ['/manual/Windows', 'Windows 系统下的使用'],
+                 ['/manual/Linux', 'Linux 系统下的使用'],
+                 ['/manual/Synology', 'Synology DSM 系统下的使用'],
+              ]
+          },
           {
               title: '附录',
               children: [
