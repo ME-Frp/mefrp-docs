@@ -10,7 +10,10 @@
 7. 启动的时候提示"frp start error: router config conflict".
 8. 启动的时候提示"Get 'https://api.mefrp.com/api/v3/start?action=checktoken&apitoken=MEFrptoken%7C14&timestamp=xxxxxxx&token=xxxxxxxxxxx&user=xxxxxxxxx':dial tcp:lookup api.mefrp.com on xxx.xxx.xxx.xxx:53: dial udp xxx.xxx.xxx.xxx:53: socket: too many open files"
 
-## 注：4xx 开头报错一般都是用户配置问题，请自查。5xx 开头一般都是服务问题，请联系管理员
+::: tip
+注：4xx 开头报错一般都是用户配置问题，请自查。5xx 开头一般都是服务问题，请联系管理员
+:::
+
 ### 1. 启动的时候提示 404 Not Found.
 
 1. 请登录``控制台`` -> ``隧道列表``查看您当前启动的隧道是否已经添加，若已经添加了但启动的时候还是提示``404 Not Found``请联系管理员为您辅助解决。
