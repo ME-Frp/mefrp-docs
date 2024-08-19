@@ -20,10 +20,10 @@
 ### 节点选择
 
 您可先在`ME Frp 控制台`首页`公告`处查看 总服务在线状态。
-![status](https://mefrp.docs.pic.iuos.asia/MEFrp_3.png)
+![status](https://docs.pic.mefrp.com/MEFrp_3.png)
 <br>
 您可先在``ME Frp 控制台``创建隧道页面，选择您需要使用的节点（如：中国/江苏/宿迁 BGP 50Mbps 节点）查看该节点在线状态。
-![status](https://mefrp.docs.pic.iuos.asia/MEFrp_4.png)
+![status](https://docs.pic.mefrp.com/MEFrp_4.png)
 从列表中选择 在线 且相对与您地理位置较近的节点
 
 ::: warning 不要盲从他人建议
@@ -37,12 +37,12 @@
 
 ### 隧道创建
 
-点击 左栏的 `隧道列表`![status](https://mefrp.docs.pic.iuos.asia/MEFrp_5.png) 即可查看 ``所有隧道``， 随后点击左侧下方的 `创建隧道`![status](https://mefrp.docs.pic.iuos.asia/MEFrp_6.png) 即可。
+点击 左栏的 `隧道列表`![status](https://docs.pic.mefrp.com/MEFrp_5.png) 即可查看 ``所有隧道``， 随后点击左侧下方的 `创建隧道`![status](https://docs.pic.mefrp.com/MEFrp_6.png) 即可。
 <br>
 隧道列表图：
-![create](https://mefrp.docs.pic.iuos.asia/MEFrp_7.png)
+![create](https://docs.pic.mefrp.com/MEFrp_7.png)
 创建隧道图：
-![create](https://mefrp.docs.pic.iuos.asia/MEFrp_8.png)
+![create](https://docs.pic.mefrp.com/MEFrp_8.png)
 选择您需要使用的节点
 选择您需要创建的隧道协议
 填写 `隧道名称` `本地地址` `本地端口` `外部端口`（`HTTP/S` 协议无需填写外部端口。）
@@ -73,11 +73,11 @@ Minecraft Java
 ::: tip
 部分创建隧道报错示例图：
 <br>
-隧道名称重复![Error](https://mefrp.docs.pic.iuos.asia/MEFrp_9.png)
+隧道名称重复![Error](https://docs.pic.mefrp.com/MEFrp_9.png)
 <br>
-本地IP地址不合法（本地IP地址填写有误）![Error](https://mefrp.docs.pic.iuos.asia/MEFrp_10.png)
+本地IP地址不合法（本地IP地址填写有误）![Error](https://docs.pic.mefrp.com/MEFrp_10.png)
 <br>
-端口已被节点占用（端口不可用）![Error](https://mefrp.docs.pic.iuos.asia/MEFrp_11.png)
+端口已被节点占用（端口不可用）![Error](https://docs.pic.mefrp.com/MEFrp_11.png)
 :::
 
 ::: danger 严禁
@@ -104,7 +104,7 @@ Minecraft Java
 ## 隧道管理
 
 点击 左侧 ``隧道列表``，即可进入隧道管理界面。
-![tunneles-14178](https://mefrp.docs.pic.iuos.asia/MEFrp_7.png)
+![tunneles-14178](https://docs.pic.mefrp.com/MEFrp_7.png)
 ::: tip 
 您可在此页``查看隧道相关信息``，您也可在此页面``删除隧道``。
 :::
