@@ -18,13 +18,13 @@ Windows ：官方提供的默认快捷启动器。
 ### 1. 用户密钥/Token
 
 亦您在 [镜缘映射|用户中心](https://www.mefrp.com/console/home) 获取到的Token（用户密钥）。
-![MEFrp_0](https://mefrp.docs.pic.iuos.asia/MEFrp_0.png)
+![MEFrp_0](https://docs.pic.mefrp.com/MEFrp_0.png)
 ::: danger 警告
 不要将任何还有 Token 的页面截图亦或是 Token 发送给别人，不过即使泄露，您也可以通过``一键重置Token``来保护您的账户。
 <br>
 如何重置Token：打开``镜缘映射|用户中心``页面，点击``Token 已经泄露？点我一键重置 Token``，然后点击``确定``，即可完成Token的重置。
-![MEFrp_1](https://mefrp.docs.pic.iuos.asia/MEFrp_1.png)
-![MEFrp_2](https://mefrp.docs.pic.iuos.asia/MEFrp_2.png)
+![MEFrp_1](https://docs.pic.mefrp.com/MEFrp_1.png)
+![MEFrp_2](https://docs.pic.mefrp.com/MEFrp_2.png)
 :::
 
 ### 2. 配置文件
